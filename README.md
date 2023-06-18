@@ -13,6 +13,8 @@ ___
 ### Interests
 * Deep Learning
 * Computer vision
+* Generative Model
+* Multi Modal Model
 * Model deploy
 * Model service
 ---
