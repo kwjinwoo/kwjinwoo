@@ -42,3 +42,4 @@ ___
 ---
 ### Link
 * [Velog](https://velog.io/@kwjinwoo)
+* [Linkedin](https://www.linkedin.com/in/%EC%A7%84%EC%9A%B0-%EC%A0%95-b33a74242/)
