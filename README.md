@@ -12,11 +12,12 @@ Jinwoo Jung
 ___
 ### Interests
 * Deep Learning
-* Computer vision
 * Generative Model
 * Multi Modal Model
 * Model deploy
 * Model service
+* Model Acceleration
+* Model Compilation
 ---
 ### Project
 * [Dog face Landmark Detection](https://github.com/kwjinwoo/Dog_face_landmark_detection)
